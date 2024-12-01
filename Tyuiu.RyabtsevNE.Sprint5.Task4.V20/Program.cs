@@ -20,7 +20,7 @@ namespace Tyuiu.RyabtsevNE.Sprint5.Task4.V20
             Console.WriteLine("***************************************************************************");
 
 
-            string path = @"C:\Users\dlyav\source\repos\Tyuiu.RyabtsevNE.Sprint5\Tyuiu.RyabtsevNE.Sprint5.Task4.V20\bin\Debug\net8.0\InPutDataFileTask4V20.txt";
+            string path = @"C:\DataSprint5\InPutDataFileTask4V20.txt";
 
 
             Console.WriteLine("Данные находяться в файле: " + path);
