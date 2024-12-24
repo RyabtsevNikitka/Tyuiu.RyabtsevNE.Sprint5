@@ -1,5 +1,5 @@
 ﻿using System.IO;
-using tyuiu.cources.programming.interfaces.Sprint5;
+using ;
 
 namespace Tyuiu.RyabtsevNE.Sprint5.Task4.V20.Lib
 {
